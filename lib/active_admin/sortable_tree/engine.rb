@@ -1,4 +1,4 @@
-require "activeadmin"
+require 'activeadmin'
 
 module ActiveAdmin
   module SortableTree
