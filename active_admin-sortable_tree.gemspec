@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = Gem::Requirement.new
 
-  s.add_dependency('activeadmin', '~> 3.1.0')
+  s.add_dependency('activeadmin', '~> 3.3')
   s.add_dependency('coffee-rails')
   s.add_dependency('jquery-rails')
   s.add_dependency('sass', '~> 3.1')
