@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.0.4] - 2024-10-25
+
+### Changed
+
+- Upgrade support to ActiveAdmin 3.3.2
+
+
 ## [2.0.3] - 2024-07-01
 
 ### Changed
